@@ -5,7 +5,7 @@ lang: en
 
 [Version française](fr/)
 
-*Last updated: 27 October 2026*
+*Last updated: 6 November 2026*
 
 This policy covers Haltera for Android, a strength-training log. It explains what happens to your information when
 you use it. In short: everything stays on your phone.
@@ -24,6 +24,12 @@ There is no account and no sign-up. Haltera asks for no name, email address or o
 
 Nothing. The Android app does not have permission to use the internet, so it cannot send your information anywhere.
 Haltera contains no advertising, no analytics and no third-party tracking, and we never sell or share your data.
+
+## Microphone and voice commands
+
+If you turn on voice commands during a workout, Haltera asks for the microphone. Your voice is processed on your phone
+to recognise commands such as "set done". It is never recorded, stored or sent anywhere. Haltera only listens while the
+mic button is on and the workout is on screen, and voice commands are optional: everything works by touch without them.
 
 ## Notifications
 

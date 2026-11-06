@@ -6,7 +6,7 @@ permalink: /fr/
 
 [English version](../)
 
-*Dernière mise à jour : 27 octobre 2026*
+*Dernière mise à jour : 6 novembre 2026*
 
 Cette politique concerne Haltera pour Android, un carnet de musculation. Elle explique ce que deviennent vos informations
 quand vous l'utilisez. En bref : tout reste sur votre téléphone.
@@ -26,6 +26,13 @@ Il n'y a ni compte ni inscription. Haltera ne demande ni nom, ni adresse e-mail,
 Rien. L'application Android n'a pas l'autorisation d'utiliser Internet : elle ne peut envoyer vos informations nulle
 part. Haltera ne contient ni publicité, ni statistiques d'usage, ni traceur tiers, et nous ne vendons ni ne partageons
 jamais vos données.
+
+## Micro et commandes vocales
+
+Si vous activez les commandes vocales pendant une séance, Haltera demande l'accès au micro. Votre voix est traitée sur
+votre téléphone pour reconnaître des commandes comme « série faite ». Elle n'est jamais enregistrée, conservée ni
+envoyée nulle part. Haltera n'écoute que lorsque le bouton micro est activé et que la séance est à l'écran. Les commandes
+vocales sont facultatives : tout fonctionne au toucher sans elles.
 
 ## Notifications
 
